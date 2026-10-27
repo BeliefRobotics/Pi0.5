@@ -1,0 +1,16 @@
+{
+  "bundle_version": "2026.10.27-1",
+  "checkpoint_step": 3000,
+  "training_snapshot_completed_steps": 3590,
+  "training_snapshot_utc": "2026-10-27T04:04:47Z",
+  "target": "Windows 10/11 x86_64 + WSL2 Ubuntu + NVIDIA GPU",
+  "model_source_commit": "385d0e8330397ecfa29e9b675042b424c4d5386c",
+  "python_runtime": "3.11.17",
+  "network_required_for_dependencies": true,
+  "tested_gpu": "RTX 4090 24 GB (Linux)",
+  "target_gpu_unverified": "User reports 3090 / possibly 12 GB; detect exact hardware before inference",
+  "robot_execution_enabled": false,
+  "rtc_enabled": false,
+  "distribution": "public",
+  "example_source": "synthetic_smoke_test"
+}

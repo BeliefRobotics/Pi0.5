@@ -1,0 +1,7 @@
+release-download/
+*.zip
+*.part*
+__pycache__/
+results/
+model/
+bootstrap/
